@@ -30,7 +30,8 @@ This project focuses on analyzing a second-hand car dataset using SQL to derive 
 (content)
 
 ## 📸 Project Screenshots
-(images)
+(<img width="1491" height="808" alt="image" src="https://github.com/user-attachments/assets/a435ed20-782a-4ccc-88ca-e47e91a97642" />
+)
 
 ## 📄 Project Presentation
 [![Project PDF](<img width="1491" height="808" alt="image" src="https://github.com/user-attachments/assets/990d8f56-702f-4892-84c2-319433b952f4" />
