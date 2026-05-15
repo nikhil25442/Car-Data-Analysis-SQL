@@ -1,5 +1,4 @@
-# 🚗 Car Dekho Data Analysis using SQL
-
+Automotive Inventory Insights via SQL
 ## 📌 Project Overview
 This project focuses on analyzing a second-hand car dataset using SQL to derive meaningful business insights.
 
